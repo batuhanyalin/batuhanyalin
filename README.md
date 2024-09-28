@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Batuhan YALIN</h1>
 <h3 align="center">I'm.NET Developer and Technology Lover</h3>
 <br/>
-<p align="center"> 🔭 I’m currently receiving education on ** M&Y Akademi Danışmanlık .Net Developer BootCamp ** </p>
+<p align="center"> 🧠 I’m currently receiving education on ** M&Y Akademi Danışmanlık .Net Developer BootCamp ** </p>
 <p align="center"> 🔨 I’m currently working on this project <a href="https://github.com/batuhanyalin/TraversalCoreProject"> Traversal Core Project </a> </p>
 <p align="center"> 🌱 I’m currently learning CQRS Design Pattern - Mediator Design Pattern</p>
 <p align="center"> 📫 How to reach me: <a href="mailto:contact@batuhanyalin.com">contact@batuhanyalin.com </a></p>
