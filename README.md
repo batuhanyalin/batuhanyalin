@@ -4,7 +4,7 @@
 <p align="center"> 🧠 I’m currently receiving education on ** M&Y Akademi Danışmanlık .Net Developer BootCamp ** </p>
 <p align="center"> 🔨 I’m currently working on this project <a href="https://github.com/batuhanyalin/TraversalCoreProject"> Traversal Core Project </a> </p>
 <p align="center"> 🌱 I’m currently learning CQRS Design Pattern - Mediator Design Pattern</p>
-<p align="center"> 📫 How to reach me: <a href="mailto:contact@batuhanyalin.com">contact@batuhanyalin.com </a></p>
+<p align="center"> 📫 How to reach me: <a href="mailto:iletisim@batuhanyalin.com">iletisim@batuhanyalin.com </a></p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
